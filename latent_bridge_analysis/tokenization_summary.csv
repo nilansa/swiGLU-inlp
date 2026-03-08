@@ -1,0 +1,10 @@
+lang,lang_name,frac_has_repl,mean_repl,mean_tokens_per_char
+asm_Beng,Assamese,1.0,4.0,1.259
+ben_Beng,Bengali,0.8,2.0,1.107
+guj_Gujr,Gujarati,1.0,6.4,1.77
+hin_Deva,Hindi,0.6,1.6,1.078
+mal_Mlym,Malayalam,1.0,4.4,1.175
+mar_Deva,Marathi,0.6,1.6,1.0
+ory_Orya,Odia,1.0,12.0,2.231
+pan_Guru,Punjabi,1.0,6.0,1.683
+tam_Taml,Tamil,1.0,4.4,1.287

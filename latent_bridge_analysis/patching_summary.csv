@@ -1,0 +1,17 @@
+pair_name,donor_type,mean_kl
+asm_to_ben,devanagari,0.000164166520679499
+asm_to_ben,hindi,0.0003621909846532448
+asm_to_ben,native,0.0
+asm_to_ben,roman,0.0006622082263159684
+ben_to_guj,devanagari,0.00019453003156958223
+ben_to_guj,hindi,0.000342831181887404
+ben_to_guj,native,0.0
+ben_to_guj,roman,0.0036965998366444287
+guj_to_tam,devanagari,0.00035627700643977125
+guj_to_tam,hindi,0.0003455021659411169
+guj_to_tam,native,0.0
+guj_to_tam,roman,0.0016723162035885565
+hin_to_guj,devanagari,0.0
+hin_to_guj,hindi,0.0
+hin_to_guj,native,0.0
+hin_to_guj,roman,0.002961091942621588

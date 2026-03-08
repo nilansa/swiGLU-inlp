@@ -1,0 +1,5 @@
+pair_name,english_mean_onset_first_step,target_native_mean_onset_first_step,english_frac_present_first_step,target_native_frac_present_first_step,english_mean_peak_mass_first_step,target_native_mean_peak_mass_first_step,devanagari_mean_peak_mass_first_step,hindi_mean_peak_mass_first_step
+asm_to_ben,22.0,26.2,0.733,1.0,0.5119,0.9024,0.0078,0.0081
+ben_to_guj,22.5,25.533,0.8,1.0,0.3426,0.8855,0.0117,0.0124
+guj_to_tam,22.222,23.867,0.6,1.0,0.4274,0.4617,0.0113,0.0141
+hin_to_guj,22.545,25.0,0.733,1.0,0.2249,0.822,0.0359,0.0411
