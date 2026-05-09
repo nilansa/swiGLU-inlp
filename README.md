@@ -36,14 +36,14 @@ Our evidence supports a cautious but positive identification of Devanagari bridg
 
 ## RESULTS 
 
-**Odia Batch Results**
+## Odia Batch Results
 <img width="1250" height="395" alt="image" src="https://github.com/user-attachments/assets/64b046f6-a4ea-4303-b70c-797caad75efa" />
 
 <img width="1237" height="402" alt="image" src="https://github.com/user-attachments/assets/20e10c8d-9078-449d-a5c3-b1c533bb915d" />
 
 <img width="1237" height="392" alt="image" src="https://github.com/user-attachments/assets/4a1728bd-26d2-4ae7-b7b0-92ea99a1769b" />
 
-**Bengali Batch Results**
+## Bengali Batch Results
 
 <img width="1494" height="475" alt="image" src="https://github.com/user-attachments/assets/b9f77200-1c3c-4203-a108-adeddd7d7405" />
 
